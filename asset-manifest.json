@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ef23560.css",
-    "main.js": "/static/js/main.f135ff69.js",
-    "index.html": "/index.html",
-    "main.7ef23560.css.map": "/static/css/main.7ef23560.css.map",
-    "main.f135ff69.js.map": "/static/js/main.f135ff69.js.map"
+    "main.css": "/modal-window-react/static/css/main.7ef23560.css",
+    "main.js": "/modal-window-react/static/js/main.f135ff69.js",
+    "index.html": "/modal-window-react/index.html",
+    "main.7ef23560.css.map": "/modal-window-react/static/css/main.7ef23560.css.map",
+    "main.f135ff69.js.map": "/modal-window-react/static/js/main.f135ff69.js.map"
   },
   "entrypoints": [
     "static/css/main.7ef23560.css",
